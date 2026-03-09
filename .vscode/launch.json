@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CarcrudprojectApplication<carcrudproject>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "hh.sof03.carcrudproject.CarcrudprojectApplication",
+            "projectName": "carcrudproject",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
